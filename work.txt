@@ -1,3 +1,4 @@
 create conan page
 create naruto page
+create in location2
  
