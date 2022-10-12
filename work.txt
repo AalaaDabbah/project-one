@@ -1,6 +1,4 @@
 create conan page
 create naruto page
-create in master 
-create dashboad
 create login page
 forget password
